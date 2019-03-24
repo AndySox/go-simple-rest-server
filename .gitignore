@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-./simple-rest-server
-=======
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,4 +10,3 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
->>>>>>> 46814fa3894f4b351ef6a66c7fe02495c79e9567
